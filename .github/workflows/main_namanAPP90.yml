@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'namanAPP90'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_5992e0937b8c469fa64bc20143ca16db }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_b1789d40572f4fc7839176d9b0e46b99 }}
         package: .
